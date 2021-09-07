@@ -1,5 +1,5 @@
 # ML_project
-Machine learning group project.
+Machine learning group project using python and multiple python libraries like pandas, skl-learn and streamlit.
 
 Neste estudo propomos o desenvolvimento de um modelo preditivo de acordo com a 
 metodologia de Cross Industry Standard Process for Data Mining (CRISP-DM), que auxilie o 
